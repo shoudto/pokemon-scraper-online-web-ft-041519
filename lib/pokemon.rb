@@ -26,4 +26,3 @@ class Pokemon
     #binding.pry 
   end 
 end
-end
